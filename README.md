@@ -1,6 +1,8 @@
 config
 ======
 
+[![Build Status](https://drone.io/github.com/gonuts/config/status.png)](https://drone.io/github.com/gonuts/config/latest)
+
 This package implements a basic configuration file parser language which
 provides a structure similar to what you would find on Microsoft Windows INI
 files.
